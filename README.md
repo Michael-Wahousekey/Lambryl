@@ -2,7 +2,7 @@
 
 This document serves as both a guide to [Lambryl](https://lambryl.com) by Michael Tanya Hadi.
 
-<!-- ![DEMO](./assets/demo.gif) -->
+![DEMO](./assets/demo.png)
 
 
 ## Table of Contents
@@ -162,7 +162,7 @@ This document serves as both a guide to [Lambryl](https://lambryl.com) by Michae
 ## Lambrbyl Trademarks
 
 Unless otherwise stated, the original source code, documentation, designs,
-graphics, and other materials created for Lambryl are owned by [Michael Tanya Hadi].
+graphics, and other materials created for Lambryl are owned by Michael Tanya Hadi.
 
 Third-party names, logos, trademarks, and product names remain the property
 of their respective owners.
