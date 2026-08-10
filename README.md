@@ -159,7 +159,7 @@ This document serves as both a guide to [Lambryl](https://lambryl.com) by Michae
 - [Roadmap](/docs/ROADMAP.md)
 - [Security](/docs/SECURITY.md)
 
-## Lambrbyl Trademarks
+## Lambryl Trademarks
 
 Unless otherwise stated, the original source code, documentation, designs,
 graphics, and other materials created for Lambryl are owned by Michael Tanya Hadi.
