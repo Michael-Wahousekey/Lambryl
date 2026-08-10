@@ -153,7 +153,7 @@ This document serves as both a guide to [Lambryl](https://lambryl.com) by Michae
 
 ## Documentation
 
-- [Depoyment](/docs/DEPLOYMENT.md)
+- [Deployment](/docs/DEPLOYMENT.md)
 - [Operation](/docs/OPERATION.md)
 - [Playbook](/docs/PLAYBOOK.md)
 - [Roadmap](/docs/ROADMAP.md)
